@@ -7,8 +7,8 @@ To get to the root of what the client of a product needs, the best methods are t
 
 ## How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-I tend to develop incrementally, adding features as they make sense and refactoring incrementally as needed. In the future, I think it definitely makes sense to develop using user stories and defined goals. Additionally, I want to try the idea of working in functional increments, then rigorously testing before incorporating additional features.
+I tend to develop incrementally, adding features as they make sense and refactoring as needed. In the future, I think it definitely makes sense to develop using user stories and defined goals. Additionally, I want to try the idea of working in functional increments, then rigorously testing before incorporating additional features.
 
 ## What does it mean to be a good team member in software development?
 
-I believe that open communication and versatility are really important to being a good team member. That, as well as working within the decided plan and ensuring that your code is stable and doesn't have the potential for obvious errors.
+I believe that open communication and versatility are really important to being a good team member. That, as well as working within the decided plan and ensuring that your code is stable and doesn't have the potential for obvious errors. Asking for help to get through roadblocks is another must.
